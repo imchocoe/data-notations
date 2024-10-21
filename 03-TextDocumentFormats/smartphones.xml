@@ -9,4 +9,11 @@
         </specs>
         <price currency="USD">799</price>
     </smartphone>
+    <smartphone brand="Xiaomi" model="Redmi Note 10 pro">
+        <specs>
+            <batteryCapacity unit="mAh">4000</batteryCapacity>
+            <storage unit="GB">256</storage>
+        </specs>
+    </smartphone>
+
 </smartphones>
