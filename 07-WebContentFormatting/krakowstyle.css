@@ -1,0 +1,22 @@
+th{
+    background-color: darkgreen;
+}
+tbody{
+    padding: 10px;
+    margin: 10px;
+}
+table{
+    border: 5px;
+    border-collapse: collapse;
+    border-style: groove;
+    border-color: darkolivegreen;
+}
+td{
+    width:25%('Landmark');
+    width: 40%('Significance');
+}
+
+tr:hover{
+    color: bisque;
+    background-color: darksalmon;
+}
