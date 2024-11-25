@@ -1,0 +1,39 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+h2{
+    background-color: darkseagreen;
+
+}
+td{
+    padding: 10px;
+    border:groove darkgreen;
+}
+th{padding: 15px;
+border:ridge darkgreen
+}
+input{
+    width:50%;
+    margin-bottom: 10px;
+    padding: 10px;
+    
+}
+input[type=Submit]{
+    background-color: darkolivegreen;
+    border-radius: 5px;
+
+}
+input[type=Submit]:hover{
+    background-color: lightseagreen;
+}
+a:link{
+    color: cornflowerblue;
+    text-decoration: wavy;
+}
+p{
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+

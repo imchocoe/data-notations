@@ -1,0 +1,24 @@
+form{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+input{
+    margin-bottom: 10px;
+    width: 100%;
+    
+
+}
+textarea{
+    border: 5px ridge;
+}
+select{
+    border: 5px ridge;
+}
+input[type=text]{
+    border: 5px groove;
+}
+input[type=Submit]{
+    color: bisque;
+    background-color: coral;
+}
